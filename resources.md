@@ -1,4 +1,4 @@
-## `xgboost`
+### `xgboost`
 
 - https://github.com/dmlc/xgboost
 - https://github.com/dmlc/xgboost/blob/master/doc/parameter.rst
@@ -7,7 +7,7 @@
 
 ---
 
-## `lightGBM`
+### `lightGBM`
 
 - https://github.com/Microsoft/LightGBM
 - https://lightgbm.readthedocs.io/en/latest/Parameters.html
@@ -16,7 +16,7 @@
 
 ---
 
-## `catboost`
+### `catboost`
 
 - https://github.com/catboost/catboost
 - https://tech.yandex.com/catboost/doc/dg/concepts/about-docpage/
